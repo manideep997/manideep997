@@ -103,27 +103,13 @@ Project exploring AI-assisted industrial and energy-related solutions.
 ## GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=manideep997&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=111827&text_color=4B5563&icon_color=374151&bg_color=FFFFFF"
-    alt="GitHub statistics for manideep997"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manideep997&layout=compact&langs_count=8&hide_border=true&title_color=111827&text_color=4B5563&bg_color=FFFFFF"
-    alt="Most used languages in public repositories"
-    height="180"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manideep997&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=8B949E&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manideep997&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=manideep997&hide_border=true&background=FFFFFF&ring=6B7280&fire=374151&currStreakLabel=374151&sideLabels=4B5563&dates=6B7280"
-    alt="GitHub contribution streak"
-    width="70%"
-  />
+  <img src="https://streak-stats.demolab.com?user=manideep997&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak statistics" />
 </p>
-
----
 
 ## Contribution Activity
 
