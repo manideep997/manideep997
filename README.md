@@ -114,14 +114,8 @@ Project exploring AI-assisted industrial and energy-related solutions.
 ## Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=manideep997&bg_color=ffffff&color=374151&line=6b7280&point=111827&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manideep997&bg_color=0D1117&color=C9D1D9&line=8B949E&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
-
----
 
 ## Connect
 
