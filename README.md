@@ -103,18 +103,12 @@ Project exploring AI-assisted industrial and energy-related solutions.
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manideep997&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=8B949E&include_all_commits=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manideep997&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=8B949E" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manideep997&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=manideep997&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak statistics" />
-</p>
-
-## Contribution Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manideep997)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manideep997&bg_color=0D1117&color=C9D1D9&line=8B949E&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
 ## Connect
