@@ -1,55 +1,53 @@
-<!-- ================================================== -->
-<!-- MANIDEEP RAO | DEVELOPER PORTFOLIO README         -->
-<!-- ================================================== -->
+ <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0D10&height=220&section=header&text=MANIDEEP%20RAO&fontSize=48&fontColor=F3F4F6&fontAlignY=40&desc=ENGINEERING%20INTELLIGENCE.%20BUILDING%20WHAT%E2%80%99S%20NEXT.&descSize=13&descAlignY=66&descColor=9CA3AF" width="100%" alt="Manideep Rao — Engineering Intelligence"/>
-</p>
+<!-- ═══════════════ HERO ═══════════════ -->
 
-<p align="center">
-  <a href="https://manideepsuraneni.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suranenimanideep/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-374151?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/manideep997">
-    <img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-4B5563?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:102A43,45:176B66,100:087E8B&text=S.%20MANIDEEP%20RAO&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=ENGINEERING%20INTELLIGENT%20EXPERIENCES&descSize=15&descAlignY=63&descColor=D9F7F5" alt="S. Manideep Rao — Engineering Intelligent Experiences"/>
 
-<p align="center">
-  <code>ECE UNDERGRADUATE</code> &nbsp; <code>AI / ML</code> &nbsp; <code>GENERATIVE AI</code> &nbsp; <code>SOFTWARE ENGINEERING</code>
-</p>
+<br/>
+
+<a href="https://github.com/manideep997"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-172033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/suranenimanideep/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://manideepsuraneni.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Discover-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+
+<br/><br/>
+
+**AI / ML · Generative AI · LLM Applications · Intelligent Software**
+
+*Curious by nature. Builder by practice. Engineer in progress.*
+
+</div>
 
 ---
 
+## `01` — THE PERSON BEHIND THE CODE
+
+Hey, I'm Manideep — an Electronics and Communication Engineering undergraduate at Amrita Vishwa Vidyapeetham, interested in building practical AI systems and intelligent software applications.
+
+I enjoy working where **AI meets real-world problems**: turning ideas into usable products, experimenting with intelligent systems, and learning through building.
+
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="50%" valign="top">
 
-### 01 / THE BUILDER
+### ◈ What drives me
 
-I'm an Electronics and Communication Engineering undergraduate at Amrita Vishwa Vidyapeetham, interested in the space where artificial intelligence meets practical engineering.
-
-I build AI-powered applications, experiment with intelligent agents, and develop software that turns ideas into working products.
-
-My approach is simple: **understand the problem, build the system, test the idea, improve the result.**
+- Exploring Generative AI and LLM applications
+- Building AI-powered and full-stack products
+- Experimenting with intelligent agents
+- Contributing to open-source development
+- Learning by building, testing, and iterating
 
 </td>
-<td width="32%" valign="top">
+<td width="50%" valign="top">
 
-### CURRENT INTERESTS
+### ◈ What I'm building toward
 
-`01` AI agents
-
-`02` LLM applications
-
-`03` Applied machine learning
-
-`04` Full-stack systems
-
-`05` Open-source software
+- More capable AI applications
+- Useful, thoughtfully designed software
+- Stronger engineering fundamentals
+- Projects that go beyond demos
+- A deeper understanding of intelligent systems
 
 </td>
 </tr>
@@ -57,102 +55,75 @@ My approach is simple: **understand the problem, build the system, test the idea
 
 ---
 
-## 02 / SELECTED WORK
+## `02` — SELECTED WORK
 
-<sub>FOUR PROJECTS · FOUR DIFFERENT PROBLEMS · BUILT THROUGH EXPERIMENTATION</sub>
+*Different problems. Different interfaces. One consistent goal: build something useful.*
 
 <table>
 <tr>
 <td colspan="2" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/FEATURED%20PROJECT-01-111827?style=flat-square" alt="Featured project 01"/>
-  <img src="https://img.shields.io/badge/SUSTAINABILITY-4B5563?style=flat-square" alt="Sustainability"/>
-</p>
+<div align="center">
 
-# EcoTrack
+### 🌿 ECOTRACK
 
-### Making environmental impact easier to understand.
+**Make your carbon footprint visible. Make change actionable.**
 
-An AI-powered carbon-footprint platform built to help users explore their environmental impact through personalized tracking, visualizations, and sustainability insights.
+<img src="./assets/ecotrack.png" width="100%" alt="EcoTrack — carbon footprint tracking and analytics dashboard"/>
 
-**What it explores**
+</div>
 
-- Carbon-footprint tracking and visualizations
-- AI-assisted sustainability insights
-- Location-aware environmental context
-- Personalized environmental tracking
+An environmental impact dashboard designed to turn carbon-footprint tracking into a more engaging, data-driven experience. Features include category breakdowns, historical activity, cumulative trends, and environmental insights.
 
-<p>
-  <img src="https://img.shields.io/badge/ACHIEVEMENT-76TH%20RANK-374151?style=for-the-badge&logo=google&logoColor=white" alt="76th rank achievement in Virtual Prompt Wars"/>
-  <img src="https://img.shields.io/badge/VIRTUAL%20PROMPT%20WARS-COMPETITION-111827?style=for-the-badge" alt="Virtual Prompt Wars"/>
-</p>
-
-<a href="https://carbon-platform-two.vercel.app/"><b>↗ OPEN ECOTRACK</b></a>
+<a href="https://carbon-platform-two.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PROJECT-047857?style=for-the-badge&logo=vercel&logoColor=white" alt="Open EcoTrack"/></a>
+<img src="https://img.shields.io/badge/76th%20Rank-Virtual%20Prompt%20Wars-D1FAE5?style=for-the-badge&labelColor=065F46" alt="76th rank in Virtual Prompt Wars"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/PROJECT-02-374151?style=flat-square" alt="Project 02"/>
-  <img src="https://img.shields.io/badge/AI%20AGENTS-111827?style=flat-square" alt="AI Agents"/>
-</p>
+### ◉ SABLE
 
-### Sable AI Agent
+*Intelligence for security research.*
 
-**Research, filtered through intelligence.**
+<img src="./assets/sable.png" width="100%" alt="Sable — autonomous AI security research agent interface"/>
 
-An AI security research platform that monitors research sources and security publications, evaluates papers against editorial criteria, and produces structured research assessments.
+An AI agent project focused on discovering and evaluating security research, with an emphasis on surfacing information relevant to practitioners.
 
-- Research discovery
-- AI-assisted evaluation
-- Structured analysis
-
-<a href="https://sable-agent-production.up.railway.app/"><b>↗ EXPLORE SABLE</b></a>
+<a href="https://sable-agent-production.up.railway.app/"><img src="https://img.shields.io/badge/EXPLORE%20SABLE-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Sable"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/PROJECT-03-374151?style=flat-square" alt="Project 03"/>
-  <img src="https://img.shields.io/badge/HACKATHON-111827?style=flat-square" alt="Hackathon"/>
-</p>
+### 🏟️ SENTIENT STADIUM
 
-### Sentient Stadium
+*Smarter experiences for live environments.*
 
-**A competitive setting for AI-driven interaction.**
+<img src="./assets/sentient-stadium.png" width="100%" alt="Sentient Stadium — AI-powered stadium telemetry and crowd-flow interface"/>
 
-A project developed during Virtual Prompt Wars, exploring interactive experiences and AI-driven analysis in a competitive environment.
+A hackathon project exploring stadium telemetry, crowd-flow awareness, interactive assistance, and AI-supported venue experiences.
 
-- Interactive AI experiences
-- Prompt-driven experimentation
-- Hackathon development
-
-<a href="https://virtual-prompt-wars-manideep.vercel.app/"><b>↗ ENTER THE STADIUM</b></a>
+<a href="https://virtual-prompt-wars-manideep.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0E7490?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Sentient Stadium"/></a>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/PROJECT-04-374151?style=flat-square" alt="Project 04"/>
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-111827?style=flat-square" alt="Machine Learning"/>
-</p>
+<div align="center">
 
-### SynthIQ
+### 🧪 SYNTHIQ
 
-**Predicting chemistry through machine learning.**
+**Where machine learning meets chemical reaction prediction.**
 
-An ML-based chemical reaction prediction dashboard built around a Random Forest model trained on more than 6,300 reactions to predict reaction parameters.
+<img src="./assets/synthiq.png" width="100%" alt="SynthIQ — machine-learning chemical reaction prediction interface"/>
 
-- Machine learning-based predictions
-- Interactive results dashboard
-- Chemistry-focused AI exploration
+</div>
 
-<a href="https://synth-iq-chi.vercel.app/"><b>↗ EXPLORE SYNTHIQ</b></a>
+An intelligent application exploring reaction prediction using a Random Forest model and feature-engineered inputs, presented through a visual interface for examining predicted outcomes.
+
+<a href="https://synth-iq-chi.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE%20SYNTHIQ-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore SynthIQ"/></a>
 
 </td>
 </tr>
@@ -160,109 +131,81 @@ An ML-based chemical reaction prediction dashboard built around a Random Forest 
 
 ---
 
-## 03 / TECHNICAL TOOLKIT
+## `03` — THE TOOLKIT
 
-<sub>TOOLS I USE TO EXPLORE IDEAS AND BUILD WORKING SYSTEMS</sub>
+*The tools I use to move from an idea to an implementation.*
 
-<table>
-<tr>
-<td width="28%" valign="top">
+<div align="center">
 
-**01 — LANGUAGES**
+**LANGUAGES**
 
-</td>
-<td valign="top">
+<img src="https://skillicons.dev/icons?i=python,c,js,matlab&theme=light" alt="Python, C, JavaScript and MATLAB"/>
 
-<img src="https://img.shields.io/badge/Python-374151?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C-374151?style=flat-square&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/JavaScript-374151?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/MATLAB-374151?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
+**AI / MACHINE LEARNING**
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+<img src="https://img.shields.io/badge/Machine%20Learning-DBEAFE?style=for-the-badge&logoColor=1D4ED8" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Generative%20AI-D1FAE5?style=for-the-badge&logoColor=065F46" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-EDE9FE?style=for-the-badge&logoColor=5B21B6" alt="LLM Applications"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-CCFBF1?style=for-the-badge&logoColor=115E59" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/OpenCV-DCFCE7?style=for-the-badge&logo=opencv&logoColor=166534" alt="OpenCV"/>
 
-**02 — AI & DATA**
+**DEVELOPMENT & TOOLS**
 
-</td>
-<td valign="top">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,git,github&theme=light" alt="React, Next.js, Node.js, FastAPI, Git and GitHub"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-374151?style=flat-square" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Generative%20AI-374151?style=flat-square" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLMs-374151?style=flat-square" alt="LLMs"/>
-<img src="https://img.shields.io/badge/OpenCV-374151?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+**EMBEDDED SYSTEMS**
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+<img src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino"/>
+<img src="https://img.shields.io/badge/ESP32-DCFCE7?style=for-the-badge&logo=espressif&logoColor=166534" alt="ESP32"/>
 
-**03 — SOFTWARE**
-
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/React-374151?style=flat-square&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-374151?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/FastAPI-374151?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Node.js-374151?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Git-374151?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**04 — EMBEDDED**
-
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/ESP32-374151?style=flat-square" alt="ESP32"/>
-<img src="https://img.shields.io/badge/Arduino-374151?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 04 / GITHUB ACTIVITY
+## `04` — GITHUB, IN NUMBERS
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manideep997&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F3F4F6&text_color=C9D1D9&icon_color=9CA3AF" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manideep997&layout=compact&hide_border=true&bg_color=0D1117&title_color=F3F4F6&text_color=C9D1D9&langs_count=6" alt="Most used languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manideep997&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
-</p>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=manideep997&show_icons=true&hide_border=true&bg_color=F7FAFC&title_color=0F766E&text_color=334155&icon_color=0D9488&include_all_commits=true" alt="GitHub statistics"/>
 
----
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manideep997&layout=compact&hide_border=true&bg_color=F7FAFC&title_color=0F766E&text_color=334155&langs_count=6" alt="Most used programming languages"/>
 
-## 05 / OPEN-SOURCE MILESTONE
+<br/>
 
-<p align="center">
-  <a href="https://github.com/manideep997?tab=achievements">
-    <img src="https://img.shields.io/badge/GITHUB%20ACHIEVEMENT-PULL%20SHARK-374151?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark achievement"/>
-  </a>
-</p>
+<img src="https://streak-stats.demolab.com?user=manideep997&theme=default&hide_border=true&background=F7FAFC&ring=0D9488&fire=F59E0B&currStreakLabel=0F766E" alt="GitHub contribution streak"/>
 
-<p align="center">
-  <sub>Every contribution is another opportunity to learn, collaborate, and improve.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/manideep997?tab=achievements">VIEW GITHUB ACHIEVEMENTS ↗</a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>IDEAS → EXPERIMENTS → SYSTEMS</b>
-</p>
+## `05` — ACTIVITY LOG
 
-<p align="center">
-  <sub>Designed to learn. Built to solve. Improved with every iteration.</sub>
-</p>
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=manideep997&bg_color=F7FAFC&color=334155&line=0D9488&point=F59E0B&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## `06` — LET'S CONNECT
+
+<div align="center">
+
+**Good ideas get better when people build together.**
+
+Whether it's AI, software engineering, open source, or an interesting technical challenge, I'm always interested in connecting with people who enjoy building things.
+
+<br/>
+
+<a href="https://github.com/manideep997"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-172033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/suranenimanideep/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://manideepsuraneni.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:102A43,50:176B66,100:087E8B&section=footer" alt="Thank you for visiting"/>
+
+*Building thoughtfully. Learning continuously. Shipping with purpose.*
+
+</div>
