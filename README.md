@@ -99,7 +99,21 @@ Project exploring AI-assisted industrial and energy-related solutions.
 [Live Demo](https://factorysense-ai-bada.vercel.app/)
 
 ---
+---
 
+## GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/manideep997?tab=achievements">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark achievement" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Pull Shark — earned for pull request activity on GitHub.</sub>
+</p>
+
+---
 ## GitHub Statistics
 
 <p align="center">
